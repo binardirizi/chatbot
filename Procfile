@@ -1,1 +1,1 @@
-worker: python c4_bot.py
+worker: python bot.py

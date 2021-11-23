@@ -1,0 +1,1 @@
+worker: python c4_bot.py
